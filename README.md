@@ -2,7 +2,7 @@
 
 
 ## Overview
-TokenSwap is a decentralized liquidity pool-based token swap contract built on Ethereum. It allows users to:
+This project is a decentralized liquidity pool-based token swap contract built on Ethereum. It allows users to:
 
 - Create liquidity pools for token pairs.
 - Add and remove liquidity from the pools.
